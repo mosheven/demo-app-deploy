@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/mosheven/demo-app
-  newTag: latest
+  newTag: e4c5c2edd2fafd0c1f81cfc7f9ca193ad247638d
